@@ -1,0 +1,13 @@
+repositories:
+  latch_can_bridge:
+    type: git
+    url: git@github.com:Bliss-LATCH/latch_can_bridge.git
+    version: main
+  latch_description:
+    type: git
+    url: git@github.com:Bliss-LATCH/latch_description.git
+    version: main
+  latch_ros2_repos:
+    type: git
+    url: git@github.com:Bliss-LATCH/latch_ros2_repos.git
+    version: main
