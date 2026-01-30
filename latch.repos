@@ -11,3 +11,7 @@ repositories:
     type: git
     url: git@github.com:Bliss-LATCH/latch_ros2_repos.git
     version: main
+  latch_HLC:
+    type: git
+    url: git@github.com:Bliss-LATCH/latch_HLC.git
+    version: main
